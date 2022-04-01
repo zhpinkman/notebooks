@@ -1,1 +1,3 @@
-stores_sales_prediction/*.csv
+store_sales_prediction/*.csv
+store_sales_prediction/.ipynb_checkpoints/*
+tsa/.ipynb_checkpoints/*
